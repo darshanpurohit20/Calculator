@@ -9,7 +9,7 @@ A **basic and responsive calculator** built using **HTML, CSS, and JavaScript**.
 - ✅ Instant calculations without page reload.
 
 ## 🎮 Live Demo
-🔗 [Try it here](https://darshanpurohit07.github.io/Calculator/)
+🔗 [Try it here](https://darshanpurohit20.github.io/Calculator/)
 
 ## 🛠️ Technologies Used
 - **HTML** - For structuring the calculator.
